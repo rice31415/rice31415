@@ -1,4 +1,4 @@
-### Hi there 👋
+### This currently exists for the purposes of homework in CECS 326. I technically created both a profile README and a new repo when doing this so hopefully this counts as two birds with one stone.
 
 <!--
 **rice31415/rice31415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
